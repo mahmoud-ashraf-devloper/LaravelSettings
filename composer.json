@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.0|^8.1",
         "ext-json": "*",
-        "arcanedev/support": "^9.0"
+        "arcanedev/support": "^9.0|^10.0"
     },
     "require-dev": {
         "laravel/framework": "^9.0|^10.0",
