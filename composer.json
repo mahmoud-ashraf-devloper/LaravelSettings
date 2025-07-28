@@ -16,12 +16,12 @@
     "type":    "library",
     "license": "MIT",
     "require": {
-        "php": "^8.0|^8.1",
+        "php": "^8.0|^8.1|^8.2|^8.3",
         "ext-json": "*",
-        "arcanedev/support": "^9.0|^10.0"
+        "arcanedev/support": "^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
-        "laravel/framework": "^9.0|^10.0",
+        "laravel/framework": "^9.0|^10.0|^11.0|^12.0",
         "mockery/mockery": "^1.4.2",
         "orchestra/testbench-core": "^7.0",
         "phpunit/phpunit": "^9.5.10|^10.0",
